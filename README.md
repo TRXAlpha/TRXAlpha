@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm TRXAlpha 👋
 
-<!--
-**TRXAlpha/TRXAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 15-year-old developer obsessed with **decentralizing intelligence**. 
+I build tools that let developers run powerful AI and infrastructure entirely on their own hardware, cutting the cord from big tech data harvesting.
 
-Here are some ideas to get you started:
+#### 👻 The Ghost Ecosystem
+* **[GhostLab](https://github.com/TRXAlpha/ghostlab):** Local-first homelab operations & inventory.
+* **[Ghost Agent](https://github.com/TRXAlpha/ghost-agent):** A private, local AI coding assistant (Copilot alternative).
+* **[Ghost Firewall](https://github.com/TRXAlpha/ghost-firewall):** Kernel-level telemetry blocking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧪 Research
+* **[Reflective Engine](https://github.com/TRXAlpha/Reflective-Engine):** Experiments in recursive self-correcting AI architectures.
+
+---
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
