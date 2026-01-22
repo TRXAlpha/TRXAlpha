@@ -2,6 +2,8 @@
 
 I am a 15-year-old developer obsessed with **decentralizing intelligence**. 
 I build tools that let developers run powerful AI and infrastructure entirely on their own hardware, cutting the cord from big tech data harvesting.
+#### Check out my portfolio website
+* **[here](https://solnetmesh.top)**
 
 #### 👻 The Ghost Ecosystem
 * **[GhostLab](https://github.com/TRXAlpha/ghostlab):** Local-first homelab operations & inventory.
