@@ -6,6 +6,8 @@
 ![Cybersecurity](https://img.shields.io/badge/ctf-000000?style=for-the-badge&logo=security&logoColor=white)
 ![AI](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Homelab](https://img.shields.io/badge/homelab-2EA44F?style=for-the-badge&logo=linux&logoColor=white)
+![Research](https://img.shields.io/badge/Research-0A66C2?style=flat-square&logo=googlescholar&logoColor=white)
+
 Mostly Python. Local tools and experiments.
 
 - [ghostlab](https://github.com/TRXAlpha/ghostlab) — LAN device inventory + basic checks
