@@ -1,20 +1,16 @@
-### Hi there, I'm TRXAlpha 👋
+### TRXAlpha
 
-I am a 15-year-old developer obsessed with **decentralizing intelligence**. 
-I build tools that let developers run powerful AI and infrastructure entirely on their own hardware, cutting the cord from big tech data harvesting.
-#### Check out my portfolio website
-* **[here](https://solnetmesh.top)**
+16, Romania.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FTC](https://img.shields.io/badge/FTC-Robotics-FF6B00?style=for-the-badge&logo=android&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
+![AI](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Homelab](https://img.shields.io/badge/Homelab-2EA44F?style=for-the-badge&logo=linux&logoColor=white)
+Mostly Python. Local tools and experiments.
 
-#### 👻 The Ghost Ecosystem
-* **[GhostLab](https://github.com/TRXAlpha/ghostlab):** Local-first homelab operations & inventory.
-* **[Ghost Agent](https://github.com/TRXAlpha/ghost-agent):** A private, local AI coding assistant (Copilot alternative).
-* **[Ghost Firewall](https://github.com/TRXAlpha/ghost-firewall):** Kernel-level telemetry blocking.
+- [ghostlab](https://github.com/TRXAlpha/ghostlab) — LAN device inventory + basic checks
+- [ghost-agent](https://github.com/TRXAlpha/ghost-agent) — local coding agent on Ollama
+- [ghost-firewall](https://github.com/TRXAlpha/ghost-firewall) — DNS anomaly scoring
+- [Reflective-Engine](https://github.com/TRXAlpha/Reflective-Engine) — small reflection loop experiments
 
-#### 🧪 Research
-* **[Reflective Engine](https://github.com/TRXAlpha/Reflective-Engine):** Experiments in recursive self-correcting AI architectures.
-
----
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+Some of these are still early.
