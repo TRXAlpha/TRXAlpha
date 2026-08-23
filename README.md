@@ -1,12 +1,12 @@
 ### TRXAlpha
 
 16, Romania.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FTC](https://img.shields.io/badge/FTC-Robotics-FF6B00?style=for-the-badge&logo=android&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/ctf-000000?style=for-the-badge&logo=security&logoColor=white)
-![AI](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Homelab](https://img.shields.io/badge/homelab-2EA44F?style=for-the-badge&logo=linux&logoColor=white)
-![Research](https://img.shields.io/badge/Research-0A66C2?style=flat-square&logo=googlescholar&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![cyber](https://img.shields.io/badge/ctf-000000?style=for-the-badge&logo=security&logoColor=white)
+![ai](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![ftc](https://img.shields.io/badge/FTC-Robotics-FF6B00?style=for-the-badge&logo=android&logoColor=white)
 
 Mostly Python. Local tools and experiments.
 
