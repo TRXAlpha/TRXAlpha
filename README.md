@@ -1,8 +1,6 @@
 ### TRXAlpha
 
-16, Romania.
 
-![Romania](https://img.shields.io/badge/RO-002B7F?style=flat-square)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![cyber](https://img.shields.io/badge/ctf%2Fcyber-000000?style=for-the-badge&logo=security&logoColor=white)
 ![ai](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
