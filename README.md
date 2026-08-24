@@ -3,7 +3,7 @@
 16, Romania.
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![cyber](https://img.shields.io/badge/ctf%/%cyber-000000?style=for-the-badge&logo=security&logoColor=white)
+![cyber](https://img.shields.io/badge/ctf%2Fcyber-000000?style=for-the-badge&logo=security&logoColor=white)
 ![ai](https://img.shields.io/badge/Local%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ftc](https://img.shields.io/badge/FTC-Robotics-FF6B00?style=for-the-badge&logo=android&logoColor=white)
