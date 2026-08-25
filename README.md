@@ -10,7 +10,7 @@
 i like local tools and experiments.
 
 - [ghostlab](https://github.com/TRXAlpha/ghostlab) — LAN device inventory + basic checks
-- [ghost-agent](https://github.com/TRXAlpha/ghost-agent) — local coding agent on Ollama
+- [cosmic cross signal](https://github.com/GamerBossX12345/Chronon) - built for "From Algorithms to Neurons" Hackathon 2026
 - [ghost-firewall](https://github.com/TRXAlpha/ghost-firewall) — DNS anomaly scoring
 - [Reflective-Engine](https://github.com/TRXAlpha/Reflective-Engine) — small reflection loop experiments
 
