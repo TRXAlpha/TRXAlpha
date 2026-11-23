@@ -9,9 +9,9 @@
 
 i like local tools and experiments.
 
-- [ghostlab](https://github.com/TRXAlpha/ghostlab) — LAN device inventory + basic checks
-- [cosmic cross signal](https://github.com/GamerBossX12345/Chronon) - built for "From Algorithms to Neurons" Hackathon 2026
+- [ghost-agent](https://github.com/TRXAlpha/ghost-agent/tree/life-layer) - personal ai os, kinda like jarvis but better
 - [ghost-firewall](https://github.com/TRXAlpha/ghost-firewall) — DNS anomaly scoring
-- [Reflective-Engine](https://github.com/TRXAlpha/Reflective-Engine) — small reflection loop experiments
+- [ignis](https://github.com/TRXAlpha/ignis) — microgravity fire sim with ai from real NASA data.
+- [cosmic cross signal](https://github.com/GamerBossX12345/Chronon) - built for "From Algorithms to Neurons" Hackathon 2026
 
 Some of these are still early.
